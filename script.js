@@ -1,11 +1,11 @@
 ﻿/*jslint browser: true*/
 /*global Stats: false */
 
-var customMessages = "GIRL DEVELOP IT";
-var customMessages1 = "BOISE";
-var customMessages2 = "SENSUS";
-var customMessages3 = "DISTRIBUTION AUTOMATION";
-var customMessages4 = "JANEMICELI";
+var customMessages = "GIRL DEVELOP IT BOISE"; //21
+var customMessages1 = "BOISE"; //5
+var customMessages2 = "GIRLS ROCK"; //10
+var customMessages3 = "ANY THING YOU CAN DO"; //20
+var customMessages4 = "I CAN DO BETTER"; //15
 var pinkrain = 0;
 var greenrain = 104;
 var bluerain = 207;
